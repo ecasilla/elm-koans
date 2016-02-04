@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "summary": "A set of koans to lead you along the path to enlightenment about elm.",
+    "repository": "https://github.com/robertjlooby/elm-koans.git",
+    "license": "MIT",
+    "source-directories": [
+        "src",
+        "src/Koans"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "deadfoxygrandpa/elm-test": "3.0.1 <= v < 4.0.0",
+        "elm-lang/core": "3.0.0 <= v < 4.0.0"
+    },
+    "elm-version": "0.16.0 <= v < 0.17.0"
+}
